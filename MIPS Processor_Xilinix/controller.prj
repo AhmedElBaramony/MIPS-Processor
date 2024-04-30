@@ -1,0 +1,4 @@
+vhdl work "Control_Package.vhd"
+vhdl work "control_main_decoder.vhd"
+vhdl work "alu_decoder.vhd"
+vhdl work "controller.vhd"

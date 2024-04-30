@@ -1,0 +1,5 @@
+vhdl isim_temp "Project_Package.vhd"
+vhdl isim_temp "MUX_32x1.vhd"
+vhdl isim_temp "Flopr.vhd"
+vhdl isim_temp "Decoder_5x32.vhd"
+vhdl isim_temp "Reg.vhd"

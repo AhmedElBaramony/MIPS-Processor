@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "G:/Xilinix Projects/Project_Phase_1/Phase_1.xst" -ofn "G:/Xilinix Projects/Project_Phase_1/Phase_1.syr" 

@@ -1,0 +1,21 @@
+Release 14.7 par P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+AHMEDEL-BARAMON::  Fri May 12 20:01:29 2023
+
+par -w -intstyle ise -ol high -mt off Main_module_map.ncd Main_module.ncd
+Main_module.pcf 
+
+
+Constraints file: Main_module.pcf.
+Loading device for application Rf_Device from file '7a100t.nph' in environment C:\Xilinx\14.7\ISE_DS\ISE\.
+   "Main_module" is an NCD, version 3.2, device xa7a100t, package csg324, speed -2i
+
+Initializing temperature to 100.000 Celsius. (default - Range: -40.000 to 100.000 Celsius)
+Initializing voltage to 0.950 Volts. (default - Range: 0.950 to 1.050 Volts)
+
+INFO:Par:282 - No user timing constraints were detected or you have set the option to ignore timing constraints ("par
+   -x"). Place and Route will run in "Performance Evaluation Mode" to automatically improve the performance of all
+   internal clocks in this design. Because there are not defined timing requirements, a timing score will not be
+   reported in the PAR report in this mode. The PAR timing summary will list the performance achieved for each clock.
+   Note: For the fastest runtime, set the effort level to "std".  For best performance, set the effort level to "high".

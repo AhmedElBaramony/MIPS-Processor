@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 34: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 35: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 36: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 37: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 38: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 39: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 40: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 41: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 42: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 43: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 44: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 45: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 46: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 47: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 48: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 49: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 50: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 51: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 52: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 53: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 54: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 55: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 56: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 57: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 58: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 59: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 60: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 61: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 62: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 63: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 64: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="unknown" >"G:/Xilinix Projects/Project_Phase_1/Reg.vhd" Line 65: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+</messages>
+

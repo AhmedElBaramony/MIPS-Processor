@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 34: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 35: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 36: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 37: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 38: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 39: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 40: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 41: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 42: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 43: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 44: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 45: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 46: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 47: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 48: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 49: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 50: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 51: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 52: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 53: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 54: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 55: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 56: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 57: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 58: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 59: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 60: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 61: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 62: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 63: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 64: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="old" >"G:\Xilinix Projects\Project_Phase_1\Reg.vhd" Line 65: Actual for formal port <arg fmt="%s" index="1">load</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">instr&lt;31:26&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">input&lt;31:30&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">output&lt;31&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">a&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">a&lt;31:8&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="0" delta="new" >The specified part-type was not generated at build time. XST is loading the full part-type and will therefore consume more CPU and memory.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="new" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_mem</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="new" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_rd</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="warning" file="Xst" num="3001" delta="new" >This design contains one or more registers or latches with an active
+asynchronous set and asynchronous reset. While this circuit can be built,
+it creates a sub-optimal implementation in terms of area, power and
+performance. For a more optimal implementation Xilinx highly recommends
+one of the following:
+
+       1) Remove either the set or reset from all registers and latches if
+          not needed for required functionality
+       2) Modify the code in order to produce a synchronous set
+          and/or reset (both is preferred)
+       3) Use the -async_to_sync option to transform the asynchronous
+          set/reset to synchronous operation
+          (timing simulation highly recommended when using this option)
+</msg>
+
+<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">Main_module</arg>: <arg fmt="%d" index="2">32</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">Decoder_5x32</arg>: <arg fmt="%d" index="2">32</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">processor/dp/pcreg/Q_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Main_module</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
