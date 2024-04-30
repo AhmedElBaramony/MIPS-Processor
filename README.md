@@ -21,11 +21,13 @@ This project involves the design of a MIPS processor using VHDL. It simulates th
   - **Control Unit**: Handles the enables and selectors for Datapath components and ALU operations.
  
 ## Directory Structure
-###Phase (1)
+
+### Phase (1)
   - RegisterFile.vhdl
   - ALU.vhdl
   - Datapath.vhdl
-###Phase (2)
+    
+### Phase (2)
   - ControlModule.vhdl
   - MIPSModule.vhdl
   - MemoryModules.vhdl
